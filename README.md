@@ -1,3 +1,1 @@
-# kpopcoop
-
-Hello World!
+# kpop coin
